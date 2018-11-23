@@ -1,3 +1,6 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<script>
 function fun_getName(){
 var domainName = 'unseen.is';
 //strInnerText = top.document.getElementById('skin_container_tree_top').innerText;
@@ -80,3 +83,6 @@ console.log('finish');
 return;
 }
 }
+</script>
+</head>
+
