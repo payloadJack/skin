@@ -1,4 +1,4 @@
-function fun_getName(){
+﻿function fun_getName(){
 var domainName = 'unseen.is';
 //strInnerText = top.document.getElementById('skin_container_tree_top').innerText;
 strInner = top.document.getElementById('skin_container_tree_top');
